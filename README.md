@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [#365DaysOfCode](https://github.com/ramidem/366DaysOfCode)
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python and PHP
 - 💬 Ask me about anything [@ramidem](https://twitter.com/ramidem)
 - 📫 How to reach me: hi @ ramidem . me
 - 😄 Pronouns: he/him
