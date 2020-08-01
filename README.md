@@ -1,3 +1,5 @@
+![image](./hello_github.gif)
+
 <h1 align="center">Hi 👋, I'm Med</h1>
 <h3 align="center">A Frontend Web Developer from The Philippines.</h3>
 
@@ -10,10 +12,6 @@
   <a href="https://twitter.com/ramidem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ramidem" height="20" width="20" /></a>
   <a href="https://linkedin.com/in/ramidem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ramidem" height="20" width="20" /></a>
   <a href="https://instagram.com/ramidem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramidem" height="20" width="20" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramidem&show_icons=true" alt="ramidem" />
 </p>
 
 <p align="center">
