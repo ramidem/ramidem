@@ -1,4 +1,4 @@
-![image](./hello_github.gif)
+![image](https://github.com/ramidem/ramidem/blob/master/hello_github.gif)
 
 <h1 align="center">Hi 👋, I'm Med</h1>
 <h3 align="center">A Frontend Web Developer from The Philippines.</h3>
