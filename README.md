@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Med</h1>
 <h3 align="center">A Frontend Web Developer from The Philippines.</h3>
 
-- 🌱 I’m currently learning **Laravel, MERN Stack, and Vue.js**
+<p align="center">
+🌱 I’m currently learning **Laravel, MERN Stack, and Vue.js**
+</p>
 
 <p align="center">
   <a href="https://codepen.io/ramidem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="ramidem" height="20" width="20" /></a>
